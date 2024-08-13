@@ -61,11 +61,11 @@
 <table>
   <tr>
     <td align="center">
-      <strong>메인화면</strong><br>
+      <strong><메인화면></strong><br>
       <img width="400" src="https://github.com/jang1234567/timenotionBack_final/assets/120088675/73ea0508-944f-436e-b7e4-62b4e3eda60c">
     </td>
     <td align="center">
-      <strong>키워드/배너</strong><br>
+      <strong><키워드/배너></strong><br>
       <img width="400" src="https://github.com/jang1234567/timenotionBack_final/assets/120088675/1efd923a-b6f3-43be-9338-538940175b6f">
     </td>
   </tr>
@@ -77,8 +77,7 @@
 <table>
   <tr>
     <td align="center">
-      <strong>about페이지</strong><br>
-      - 페이지에 대한 설명<br><br>
+      <strong><about페이지></strong><br>
       <img width="400" src="https://github.com/user-attachments/assets/fb0aca13-b469-4257-9b44-6814c8cc20ae">
     </td>
   </tr>
@@ -92,19 +91,20 @@
   </tr>
 </table>
 
- 
+- 타임노션 웹페이지에 대한 설명
+
 ---
 
 **<로그인, 회원가입>**<br>
 <table>
   <tr>
     <td align="center">
-      <strong>로그인</strong><br>
+      <strong><로그인></strong><br>
       <img width="400" src="https://github.com/jang1234567/timenotionBack_final/assets/120088675/a28d2e60-f0f5-4918-a3b0-4192572259c0">
     </td>
     <td style="width: 50px;"></td> <!-- 빈 셀을 추가하여 간격 확보 -->
     <td align="center">
-      <strong>회원가입</strong><br>
+      <strong><회원가입></strong><br>
       <img height="400" width="200px" src="https://github.com/jang1234567/timenotionBack_final/assets/120088675/4b02463d-ed48-4fc5-bf9c-e2d84ba683e3">
     </td>
   </tr>
@@ -119,7 +119,7 @@
 <table>
   <tr>
     <td align="center">
-      <strong>비밀번호 찾기</strong><br>
+      <strong><비밀번호 찾기></strong><br>
       <img width="400" src="https://github.com/user-attachments/assets/60b6520b-8099-48e3-a76e-2535879eb995">
     </td>
     <td align="center">
@@ -135,21 +135,21 @@
 <table>
   <tr>
     <td align="center">
-      <strong>나의 일대기</strong><br>
+      <strong><나의 일대기></strong><br>
       <img width="400" src="https://github.com/user-attachments/assets/a17da4fd-bd4b-4b8d-b28e-7ee8e00f4162">
     </td>
     <td align="center">
-      <strong>내가 좋아요한 게시글 목록</strong><br>
+      <strong><내가 좋아요한 게시글 목록></strong><br>
       <img width="400" src="https://github.com/user-attachments/assets/30cc1cf3-078a-4a1c-8f4f-bd20c4780be1">
     </td>
   </tr>
   <tr>
     <td align="center">
-      <strong>내가 쓴 댓글 목록</strong><br>
+      <strong><내가 쓴 댓글 목록></strong><br>
       <img width="400" src="https://github.com/user-attachments/assets/965c1863-0604-409f-ad64-9db3fe124f87">
     </td>
     <td align="center">
-      <strong>회원 정보 수정</strong><br>
+      <strong><회원 정보 수정></strong><br>
       <img width="400" src="https://github.com/user-attachments/assets/d97b0727-5e7c-4f8e-b95c-f63a7799245e">
     </td>
   </tr>
@@ -157,19 +157,25 @@
 
 ---
 
-**<게시글, 댓글 작성성>**<br>
+**<게시글, 댓글 작성 밒 신고>**<br>
 <table>
   <tr>
     <td align="center">
-      <strong>게시글 작성</strong><br>
+      <strong><게시글 작성></strong><br>
       <img width="400" src="https://github.com/jang1234567/timenotionBack_final/assets/120088675/84b29d08-cd1a-4859-8c7e-920af1714ea5">
     </td>
     <td align="center">
-      <strong>댓글 작성</strong><br>
+      <strong><댓글 작성></strong><br>
       <img width="400" src="https://github.com/user-attachments/assets/baccff61-901c-4b25-abb3-3dab3c20e57f">
+    </td>
+     <td align="center">
+      <strong><댓글 신고></strong><br>
+      <img width="200" src="https://github.com/user-attachments/assets/4f0bc4b9-0e04-41e4-a940-9be4299e4f09">
+      <img width="200" src="https://github.com/user-attachments/assets/c3a8d199-f2ea-4094-856d-071e6aaf9b81">
     </td>
   </tr>
 </table>
+
 
 
 
@@ -180,15 +186,15 @@
 <table>
   <tr>
     <td align="center">
-      <strong>모두의 일대기</strong><br>
+      <strong><모두의 일대기></strong><br>
       <img width="400" src="https://github.com/jang1234567/timenotionBack_final/assets/120088675/4f3f5cf0-0d8c-4fb1-9a1c-7bd0bbc0b283">
     </td>
     <td align="center">
-      <strong>상세페이지</strong><br>
+      <strong><상세페이지></strong><br>
       <img width="400" src="https://github.com/user-attachments/assets/6bfb7fd1-dfda-49c4-84c4-034073c5e88a">
     </td>
     <td align="center">
-      <strong>게시글 좋아요</strong><br>
+      <strong><게시글 좋아요></strong><br>
       <img width="400" src="https://github.com/user-attachments/assets/64135823-c278-4b7f-9e43-52c77266dde8">
     </td>
   </tr>
@@ -202,11 +208,11 @@
 <table>
   <tr>
     <td align="center">
-      <strong>너의 일대기</strong><br>
+      <strong><너의 일대기></strong><br>
       <img width="400" src="https://github.com/user-attachments/assets/a3b36d09-95f4-4c05-9275-ba469508e580">
     </td>
     <td align="center">
-      <strong>팔로우, 팔로잉</strong><br>
+      <strong><팔로우, 팔로잉></strong><br>
       <img width="400" src="https://github.com/user-attachments/assets/d97a452b-763c-49dd-905e-42a12a63f82d">
     </td>
   </tr>
@@ -219,11 +225,11 @@
 <table>
   <tr>
     <td align="center">
-      <strong>채팅목록</strong><br>
+      <strong><채팅목록></strong><br>
       <img width="400" src="https://github.com/user-attachments/assets/ca14e2e4-57fb-4ecd-a05a-551d3780e802">
     </td>
     <td align="center">
-      <strong>채팅방</strong><br>
+      <strong><채팅방></strong><br>
       <img width="400" src="https://github.com/user-attachments/assets/f8bafa24-4143-45d1-8c31-58ac5eb9ce26">
     </td>
   </tr>
@@ -239,14 +245,14 @@
 <table>
   <tr>
     <td align="center">
-      <strong>공지</strong><br>
+      <strong><공지></strong><br>
       <img width="400" src="https://github.com/user-attachments/assets/d86ba5f4-819a-4d9e-a3b6-7853c09ba031">
     </td>
     <td align="center">
       <img width="400" src="https://github.com/user-attachments/assets/2dcc7a6a-29bf-4316-861a-d765aa67dcab">
     </td>
     <td align="center">
-      <strong>문의</strong><br>
+      <strong><문의></strong><br>
       <img width="400" src="https://github.com/user-attachments/assets/d1c2f72d-0895-42c4-a269-55ca40480628">
     </td>
     <td align="center">
@@ -261,8 +267,29 @@
 
 ---
 **<관리자 페이지>**
+<table>
+  <tr>
+    <td align="center">
+      <strong><대쉬보드></strong><br>
+      <img width="400" src="https://github.com/user-attachments/assets/5994bf9f-c57c-4c5c-947c-b0780e7825fb">
+    </td>
+    <td align="center">
+      <strong><게시글 관리></strong><br>
+      <img width="400" src="https://github.com/user-attachments/assets/9f8f01ca-76d6-4258-aca3-290032f5d4c3">
+    </td>
+    <td align="center">
+      <strong><공지관리></strong><br>
+      <img width="400" src="https://github.com/user-attachments/assets/8d3ed4d0-50e3-420a-b4e1-d323d5c32cbf">
+    </td>
+    <td align="center">
+      <strong><문의관리></strong><br>
+      <img width="400" src="https://github.com/user-attachments/assets/16966be5-9220-4683-b753-cbcc1c8b0edf">
+    </td>
+  </tr>
+</table>
 
 
+---
 
 
 
