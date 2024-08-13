@@ -5,9 +5,11 @@
 ## 📁 프로젝트 소개
 <Strong>**근근한잔💪 (타임노션)** </Strong>은 개인의 생애주기별 경험과 추억을 기록하고, 이를 다른 사람들과 공유함으로써 공감을 형성하고 팔로잉/팔로우를 통한 채팅도 할 수 있는 플랫폼입니다. 
 
+
 ## ⏱ 개발 기간
 24.05.03 - 24.05.31 **"1차개발"** <br>
 24.06.03 - 24.06.28 **"채팅+관리자 페이지"**
+
 
 
 ## 주요 기능
@@ -31,22 +33,34 @@
 5. **키워드를 통한 공통사**
    - 사이트의 키워드 기능을 통해 내 관심사를 검색하고 자신과 직종, 학교, 지역 등이 같은 다양한 사람들과 만날 수 있도록 합니다.<br>  댓글,채팅을 통해 다양한 경험을 공유하며 소통할 수 있습니다.
 
+---
 
 ## 📖목차
 - [팀 구성](#팀-구성)
 - [ERD 구성](#erd-구성)
 - [Stacks](#-stacks)
 
-## 🔗팀 구성
+## 🧑‍💻팀 구성
 **Producer Git-hub Page 장윤근**
 
-| 팀장  | 장윤근 |
+| 팀장  | [장윤근](https://github.com/jang1234567) |
 |:----:|:-----:|
-| 부팀장 | 윤담   |
-| 팀원  | 문동주 |
-| 팀원  | 고태민 |
-| 팀원  | 김주선 |
-| 팀원  | 양효준 |
+| 부팀장 |  [윤담](https://github.com/dev-yoondam)   |
+| 팀원  |  [고태민](https://github.com/taemin1997) |
+| 팀원  |  [문동주](https://github.com/mdongjoo) |
+| 팀원  |  [김주선](https://github.com/joosun0823) |
+| 팀원  |  [양효준](https://github.com/HyoJun00) |
+
+---
+
+## 🔗서비스 흐름도
+
+<img width="800" src='https://github.com/user-attachments/assets/a4c56a5e-6be3-4959-8de8-c01ecfb6956c'>
+<br>
+<Strong><관리자></Strong><br>
+<img height="400" width="400" src='https://github.com/user-attachments/assets/178fccdf-a974-447c-a9de-1ca083921c87'>
+
+
 
 ## 💡ERD 구성
 
