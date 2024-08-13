@@ -1,12 +1,13 @@
 # 근근한잔 (타임노션)
-<a href='https://ifh.cc/v-H9Fj40' target='_blank'><img width="400" src=https://github.com/jang1234567/timenotionBack_final/assets/120088675/d9c6e0d6-f1af-403a-83a6-8c26445c0c51></a>
+<img width="500" src=https://github.com/jang1234567/timenotionBack_final/assets/120088675/d9c6e0d6-f1af-403a-83a6-8c26445c0c51>
 
 
 ## 📁 프로젝트 소개
-**근근한잔💪 (타임노션)**은 개인의 생애주기별 경험과 추억을 기록하고, 이를 공유함으로써 공감을 형성할 수 있는 플랫폼입니다. <br> 사용자는 자신의 삶을 일기 형식으로 기록하며, 이를 통해 유대감을 형성하고, 자기 표현의 장을 제공받아 일기 쓰기 습관을 형성할 수 있습니다.
+<Strong>**근근한잔💪 (타임노션)** </Strong>은 개인의 생애주기별 경험과 추억을 기록하고, 이를 공유함으로써 공감을 형성하고 해 수 있는 플랫폼입니다. <br> 사용자는 자신의 삶을 일기 형식으로 기록하며, 이를 통해 유대감을 형성하고, 자기 표현의 장을 제공받아 일기 쓰기 습관을 형성할 수 있습니다.
 
 ## ⏱ 개발 기간
 24.05.03 - 24.05.31
+
 
 ## 주요 기능
 
@@ -28,7 +29,7 @@
 - [Stacks](#-stacks)
 
 ## 🔗팀 구성
-**Producer Git-hut Page 장윤근**
+**Producer Git-hub Page 장윤근**
 
 | 팀장  | 장윤근 |
 |:----:|:-----:|
@@ -42,7 +43,6 @@
 
 <details open>
 <summary>ERD</summary>
-
   
 <img width="800" src='https://github.com/user-attachments/assets/3cf36b83-0b8a-42d7-8d9a-e1e39a04ba79'>
 
@@ -51,20 +51,19 @@
 ## 💻 기능 및 화면 소개
 
 **<메인화면>**<br>
-<a href='https://ifh.cc/v-H9Fj40' target='_blank'><img width="400" src=https://github.com/jang1234567/timenotionBack_final/assets/120088675/73ea0508-944f-436e-b7e4-62b4e3eda60c></a>
+<img width="400" src=https://github.com/jang1234567/timenotionBack_final/assets/120088675/73ea0508-944f-436e-b7e4-62b4e3eda60c>
 
 - 메인 화면으로 관리자가 뽑는 게시물 베스트 탑3를 보여주고 있습니다.
 - 인기 컨텐츠는 게시물 좋아요를 받은 순서대로 탑4를 나타내어 보여주고 있습니다.
 
 **<키워드/배너>**<br>
-<a href='https://ifh.cc/v-H9Fj40' target='_blank'><img width="400" src=https://github.com/jang1234567/timenotionBack_final/assets/120088675/1efd923a-b6f3-43be-9338-538940175b6f></a>
+<img width="400" src=https://github.com/jang1234567/timenotionBack_final/assets/120088675/1efd923a-b6f3-43be-9338-538940175b6f>
 
 - 인기키워드는 “모두의 일대기”페이지에서 게시물을 검색할 때 해당 키워드를 검색하면 그 키워드의 검색 횟수가 1씩 누적합 되도록 설정 되어있습니다.
 - 키워드 밑에는 배너로 2초가 지나면 자동으로 해당 배너 크기만큼 좌로 이동하여 다음 배너가 보이게 구현 하였습니다.
 
 **<로그인>**<br>
-<a href='https://ifh.cc/v-H9Fj40' target='_blank'><img  width="400" src=https://github.com/jang1234567/timenotionBack_final/assets/120088675/a28d2e60-f0f5-4918-a3b0-4192572259c0></a>
-
+<img  width="400" src=https://github.com/jang1234567/timenotionBack_final/assets/120088675/a28d2e60-f0f5-4918-a3b0-4192572259c0>
 - 타임 노션이라는 웹사이트는 무조건 로그인을 해야 볼수있는 회원제 게시판입니다.
 - Session을 이용하여 로그인을 구현하였고, KAKAO API를 불러와 Oauth2를 통해 카카오 로그인을 구현 하였습니다.
 
