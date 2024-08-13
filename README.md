@@ -35,14 +35,16 @@
 | 부팀장 | 윤담   |
 | 팀원  | 문동주 |
 | 팀원  | 고태민 |
-| 팀원  | 송아성 |
+| 팀원  | 김주선 |
+| 팀원  | 양효준 |
 
 ## 💡ERD 구성
 
 <details open>
 <summary>ERD</summary>
+
   
-<a href='https://ifh.cc/v-H9Fj40' target='_blank'><img width="400" src='https://github.com/jang1234567/timenotionBack_final/assets/120088675/aab927f4-58cd-4040-945d-d78688755824'></a>
+<img width="800" src='https://github.com/user-attachments/assets/3cf36b83-0b8a-42d7-8d9a-e1e39a04ba79'>
 
 </details>
 
@@ -64,7 +66,7 @@
 <a href='https://ifh.cc/v-H9Fj40' target='_blank'><img  width="400" src=https://github.com/jang1234567/timenotionBack_final/assets/120088675/a28d2e60-f0f5-4918-a3b0-4192572259c0></a>
 
 - 타임 노션이라는 웹사이트는 무조건 로그인을 해야 볼수있는 회원제 게시판입니다.
-- Session을 이용하여 로그인을 구현하였고, KAKAO API를 불러와 Oauth2를 통해 카카로 로그인을 구현 하였습니다.
+- Session을 이용하여 로그인을 구현하였고, KAKAO API를 불러와 Oauth2를 통해 카카오 로그인을 구현 하였습니다.
 
 
 **<회원가입>**<br>
