@@ -5,14 +5,6 @@
 ## 📁 프로젝트 소개
 <Strong>**근근한잔💪 (타임노션)** </Strong>은 개인의 생애주기별 경험과 추억을 기록하고, 이를 다른 사람들과 공유함으로써 공감을 형성하고 팔로잉/팔로우를 통한 채팅도 할 수 있는 플랫폼입니다. 
 
-<p>
-   <a href="https://road-particle-453.notion.site/5debb79e293443b58e1965754cb7b619?pvs=4">
-     <img src="https://github.com/user-attachments/assets/fdd78583-efce-4a7e-8c6a-1d7590f71892" width="100px" height="30px"/>
-  <strong>자세한 설명은 여기를 클릭하세요!</strong>
-    </a> 
-</p>
-
----
 
 ## ⏱ 개발 기간
 24.05.03 - 24.05.31 **"1차개발"** <br>
